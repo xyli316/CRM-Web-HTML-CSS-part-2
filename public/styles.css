@@ -1,0 +1,63 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #CCFF66;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+header nav ul li {
+	display: inline;
+	margin-right: 15px;
+	list-style-type: none;
+}
+
+header {
+	background: none repeat scroll 0 0 #f3f9fd;
+	padding: 25px 0px;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	font-family: Roboto;
+	font-size: 18px;
+	color: #333;
+}
+
+nav {
+	color: yellow;
+	font-family: "Times New Roman";
+}
+
+body {
+	background-color: white;
+}
+
+footer {
+	background-color: #f1f1f1;
+	color: #919293;
+	padding: 40px 0;
+	text-align: center;
+	border-top: 1px solid #e2e2e2;
+}
+
+footer nav ul li {
+	display: inline;
+	margin-right: 15px;
+	list-style-type: none;
+
+footer nav ul li a {
+	text-decoration: none;
+	font-family: Roboto;
+	font-size: 10px;
+	color: #333;
+}
+
+.hero {
+	/*background-image: ur("https://c.s-microsoft.com/en-ca/CMSImages/header_CRM_679.jpg?version=11f0ced0-c037-ebbf-59a6-dd19771a12f7");*/
+	background-color: lightblue;
+	width: 100%;
+	height: 100vh;
+}
